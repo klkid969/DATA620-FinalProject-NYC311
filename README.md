@@ -10,7 +10,7 @@ The goal of this project is to better understand how NYC 311 service requests ar
 
 The dataset used in this project comes from NYC Open Data:
 
-https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2020-to-Present/erm2-nwe9/about_data
+[https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2020-to-Present/erm2-nwe9/about_data](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2020-to-Present/erm2-nwe9/about_data)
 
 A sample of the dataset was used to keep the analysis manageable and reproducible.
 
